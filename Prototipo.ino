@@ -1,5 +1,5 @@
 /*
- * Esse código irá imprimir o endereço IP do NodeMCU (uma evz que conectado à rede) no monitor serial. 
+ * Esse código irá imprimir o endereço IP do NodeMCU (uma vez que é conectado a rede) no monitor serial. 
  * Então, é possível abrir esse endereço em um navegador web e ver as notificações.
  * O NodeMCU funciona como um receptor do sistema.
  * 
